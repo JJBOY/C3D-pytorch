@@ -6,7 +6,7 @@ I try both training from scratch and fine-fune the pre-train model on the sport-
 
 ## Dataset
 
-I trainged the model on [UCF101][3].
+I trained the model on [UCF101][3].
 
 For convenience, I sampled pictures from the raw video 10FPS using the ./raw/video2img.sh
 
