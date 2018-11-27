@@ -10,8 +10,7 @@ I trainged the model on [UCF101][3].
 
 For convenience, I sampled pictures from the raw video 10FPS using the ./raw/video2img.sh
 
-## reference:
 
-[3]: http://crcv.ucf.edu/data/UCF101.php
 [1]: https://github.com/facebook/C3D
 [2]: http://vlg.cs.dartmouth.edu/c3d/
+[3]: http://crcv.ucf.edu/data/UCF101.php
